@@ -1,2 +1,2 @@
 # MATLAB_Double_Pendulum
-Set up and solve for equations of motion of a double pendulum system in Lagrangian Formalism and animate motion of the system
+These programs will set up and solve the equations of motion for a multiple pendulum system. The program doublePendulum.m will generate several plots representing the solution set of state variables and animate the motion of a double pendulum system. The file doublePendulum_10x.m animates the dynamic motion of 10 different double pendulum systems at the same time, each with slightly different initial conditions, to illustrate the chaotic behavior of this system. The file quadPend.m solves for and animates the dynamic motion of a quadruple pendulum system.
